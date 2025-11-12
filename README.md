@@ -1,1 +1,1 @@
-sprites para o trabalho com o jaieon
+sprites para o trabalho com o jairon
